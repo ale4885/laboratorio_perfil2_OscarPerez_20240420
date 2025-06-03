@@ -20,7 +20,7 @@ public class Main {
         miInventario.agregarProducto("Arroz", 7);
 
         do {
-            System.out.println("\n--- Menú de Inventario ---");
+            System.out.println("--- Menú de Inventario ---");
             System.out.println("1. Actualizar Stock de Producto");
             System.out.println("2. Ver Productos con Stock Bajo");
             System.out.println("3. Listar Todos los Productos");
